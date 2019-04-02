@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grappelBird", "grappelBird.csproj", "{D5E1E9D2-34B9-9626-9BA8-49A18120C4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grappelBird.Plugins", "grappelBird.Plugins.csproj", "{4DAB1CEE-5948-CBC7-F0D9-2578586505E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grappelBird.Editor", "grappelBird.Editor.csproj", "{F8D80FB5-9C0A-2C1F-0BCA-C0FAA1B00544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grappelBird.Editor.Plugins", "grappelBird.Editor.Plugins.csproj", "{8E084259-DAD9-1050-B44C-338B343D2C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E1E9D2-34B9-9626-9BA8-49A18120C4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E1E9D2-34B9-9626-9BA8-49A18120C4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E1E9D2-34B9-9626-9BA8-49A18120C4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E1E9D2-34B9-9626-9BA8-49A18120C4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAB1CEE-5948-CBC7-F0D9-2578586505E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAB1CEE-5948-CBC7-F0D9-2578586505E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAB1CEE-5948-CBC7-F0D9-2578586505E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAB1CEE-5948-CBC7-F0D9-2578586505E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D80FB5-9C0A-2C1F-0BCA-C0FAA1B00544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D80FB5-9C0A-2C1F-0BCA-C0FAA1B00544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D80FB5-9C0A-2C1F-0BCA-C0FAA1B00544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D80FB5-9C0A-2C1F-0BCA-C0FAA1B00544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E084259-DAD9-1050-B44C-338B343D2C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E084259-DAD9-1050-B44C-338B343D2C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E084259-DAD9-1050-B44C-338B343D2C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E084259-DAD9-1050-B44C-338B343D2C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using UnitySampleAssets.CrossPlatformInput;
+using UnityEngine.UI;
 
-
-[RequireComponent(typeof(GUITexture))]
+[RequireComponent(typeof(Image))]
 public class ForcedReset : MonoBehaviour {
-
+    [System.Obsolete]
     void Update () {
         
         // if we have forced a reset ...
